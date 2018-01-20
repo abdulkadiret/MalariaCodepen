@@ -1,0 +1,45 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: verdana;
+  font-size: 50px;
+}
+
+body {
+  font-size: 20px;
+  padding: 70px;
+  margin: auto;
+  background-color: powderblue;
+  max-width: 100%;  
+  border-style: solid;
+  border-width: 50px;
+  border-left-width: 50px;
+  border-right-width: 50px;
+  border-color: chocolate;
+  line-height: 140%;
+}
+
+ul {
+  border-style: inset;
+  padding: 25px;
+  text-align: justify;
+}
+
+.highlted {
+  background: chartreuse;
+  padding: 20px;
+}
+
+img.center {
+  display: block;
+  margin-left: 80px;
+  margin-right: auto;
+}
+
+ol {
+  padding-left: 100px;
+}
+
+h2 {
+  color: blue; 
+}
